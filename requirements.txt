@@ -20,7 +20,7 @@ MarkupSafe==1.1.1
 numpy==1.17.4
 Pillow==6.2.1
 pip-autoremove==0.9.1
-protobuf==3.10.0
+protobuf==3.18.3
 requests==2.22.0
 six==1.13.0
 tb-nightly==1.14.0a20190603
@@ -51,7 +51,7 @@ Markdown==3.1.1
 MarkupSafe==1.1.1
 numpy==1.17.4
 Pillow==6.2.1
-protobuf==3.10.0
+protobuf==3.18.3
 requests==2.22.0
 six==1.13.0
 tb-nightly==1.14.0a20190603
