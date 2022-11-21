@@ -24,7 +24,7 @@ protobuf==3.10.0
 requests==2.22.0
 six==1.13.0
 tb-nightly==1.14.0a20190603
-tensorflow==2.0.0b1
+tensorflow==2.9.3
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
 urllib3==1.25.7
@@ -55,7 +55,7 @@ protobuf==3.10.0
 requests==2.22.0
 six==1.13.0
 tb-nightly==1.14.0a20190603
-tensorflow==2.0.0b1
+tensorflow==2.9.3
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
 urllib3==1.25.7
